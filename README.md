@@ -19,7 +19,7 @@ This project is ideal for:
 
 ### 🚀 Demos & Results
 
-- **[Demo Notebook](https://www.kaggle.com/code/quanhoangngoc/yolov1-self-learning-pytorch-keras)**: Explore the live notebook that shows the model in action, detecting objects in real-time.
+- [Demo Notebook](https://www.kaggle.com/code/quanhoangngoc/yolov1-self-learning-pytorch-keras): Explore the live notebook that shows the model in action, detecting objects in real-time.
 
 ## 🔍 How Did We Do It?
 
