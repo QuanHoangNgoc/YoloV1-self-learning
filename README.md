@@ -1,7 +1,5 @@
 # YoloV1 Self-Implementation and Learning
 
-![YoloV1 Banner](https://raw.githubusercontent.com/username/YoloV1-self-implementation/main/assets/banner.png)
-
 ## 🌟 What is YoloV1?
 
 YoloV1 (You Only Look Once Version 1) is one of the pioneering deep learning models designed for real-time object detection. Unlike traditional methods that apply the detection model to different regions of an image multiple times, YoloV1 predicts objects and their bounding boxes directly from full images in a single pass. This self-implementation project recreates the YoloV1 model from scratch, offering a deeper understanding of its inner workings.
@@ -50,12 +48,6 @@ This project is ideal for:
 - Successfully reimplemented YoloV1 from scratch, with the model achieving competitive performance on the Pascal VOC dataset.
 - Developed an easy-to-follow educational resource for others to learn about YoloV1.
 - Enhanced personal expertise in deep learning and object detection.
-
----
-
-Thank you for exploring this project! Feel free to clone the repository, try the demo, and contribute to further improve this implementation.
-
-![GitHub Stars](https://img.shields.io/github.com/QuanHoangNgoc/YoloV1-self-learning?style=social) ![GitHub Forks](https://img.shields.io/github.com/QuanHoangNgoc/YoloV1-self-learning?style=social) ![GitHub License](https://img.shields.io/github.com/QuanHoangNgoc/YoloV1-self-learning)
 
 ---
 
